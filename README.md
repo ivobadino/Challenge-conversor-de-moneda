@@ -109,4 +109,25 @@ Esta solicitud queda registrada en un archivo para futuras actualizaciones.
 4.  Sigue las instrucciones del menú en la consola.
 
 ---
+### Contribuciones
+¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
 
+1. **Forkea este repositorio:** Crea una copia de este repositorio en tu cuenta de GitHub.
+2. **Crea una nueva rama:** Basada en la rama `main` (o la rama principal que estés utilizando).
+3. **Realiza tus cambios:** Edita los archivos y realiza los cambios que desees.
+4. **Commitea tus cambios:** Guarda tus cambios localmente.
+5. **Envía un pull request:** Envía una solicitud de fusión para que tus cambios sean revisados y fusionados con el repositorio principal.
+
+**Guía de estilo:**
+
+* Sigue el estilo de codificación existente.
+* Escribe comentarios claros y concisos.
+* Realiza pruebas exhaustivas antes de enviar un pull request.
+
+**¿Cómo puedes contribuir?**
+* **Corrigiendo errores:** Si encuentras algún bug, puedes enviar una corrección.
+* **Agregando nuevas funcionalidades:** Puedes implementar nuevas características que consideres útiles.
+* **Mejorando la documentación:** Puedes mejorar la documentación existente o agregar nueva documentación.
+* **Traduciendo el proyecto:** Si hablas otros idiomas, puedes traducir el proyecto a otros idiomas.
+
+**¡Gracias por tu interés en contribuir a este proyecto!**
