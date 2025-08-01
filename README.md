@@ -26,10 +26,17 @@
 ## Tecnologías Usadas
 
 -   **Java 17.0.15**
+    Lenguaje de programacion utilizado para desarrollar el el proyecto.
+     
 -   **Gson**: Para el manejo de datos en formato JSON de la API.
+    Libreria para java la cual permite leer los datos que nos otorga la API.
+    
 -   **java.net.http**: Para realizar las solicitudes a la API REST.
--   **ExchangeRate-API**: La API externa utilizada para obtener las tasas de cambio.
-
+    Libreria para java la cual nos permite enviar la solicitud a nuestra API y recibir la respuesta de la misma.
+    
+-   **[ExchangeRate-API](https://www.exchangerate-api.com/)**: La API externa utilizada para obtener las tasas de cambio.
+    API que nos permite recibir las tasas de cambio de cualquier moneda de forma actualizada.
+    
 ---
 
 ## Funcionalidades Principales
