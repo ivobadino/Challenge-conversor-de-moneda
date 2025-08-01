@@ -25,7 +25,7 @@
 
 ## Tecnologías Usadas
 
--   **Java 11+**
+-   **Java 17.0.15**
 -   **Gson**: Para el manejo de datos en formato JSON de la API.
 -   **java.net.http**: Para realizar las solicitudes a la API REST.
 -   **ExchangeRate-API**: La API externa utilizada para obtener las tasas de cambio.
